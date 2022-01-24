@@ -1,0 +1,6 @@
+x1= int(input("enterx1:"))
+x2 = int(input("enterx2:"))
+y1= int(input("entery1:"))
+y2 = int(input("entery2:"))
+d = ((x2-x1) ** 2 + (y2-y1) ** 2) **(1/2)
+print(d)
