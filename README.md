@@ -5,5 +5,5 @@ This repository is created to collect the assignment solutions for the subject S
     -TENDO LAALA ANTONIA 
     -OKEMA ELVIS ATUHAIRWE
     -NANTUMBWE PROSSY K
-    -BWAMBALE EDAR KAHERU
+    -BWAMBALE EDGAR KAHERU
     -ATUSSASIRE BONITOR                                           
