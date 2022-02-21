@@ -1,3 +1,4 @@
+
 c= int(input("enter c:"))
 r = float(input("enter r:"))
 t = float(input("enter t:"))
