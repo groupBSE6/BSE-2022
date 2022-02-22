@@ -4,7 +4,7 @@ This repository is created to collect the assignment solutions for the subject S
 
  ### GROUP 6 MEMBERS        
     -BWAMBALE EDGAR KAHERU  2021/BSE/040/PS  (Group leader)
-    -OKEMA ELVIS ATUHAIRWE  2021/BSE/040/PS  (timekeeper)
+    -OKEMA ELVIS ATUHAIRWE  2021/BSE/169/PS  (timekeeper)
     -NANTUMBWE PROSSY K     2021/BSE/097/PS  (note taker)
     -TENDO LAALA ANTONIA    2021/BSE/120/PS
     -ATUSSASIRE BONITOR     2021/BSE/030/PS  (progess-chaser)
